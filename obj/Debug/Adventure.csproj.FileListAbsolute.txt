@@ -1,0 +1,7 @@
+C:\Users\cpiercourt\Documents\Adventure\Adventure\bin\Debug\Adventure.exe.config
+C:\Users\cpiercourt\Documents\Adventure\Adventure\bin\Debug\Adventure.exe
+C:\Users\cpiercourt\Documents\Adventure\Adventure\bin\Debug\Adventure.pdb
+C:\Users\cpiercourt\Documents\Adventure\Adventure\obj\Debug\Adventure.csproj.AssemblyReference.cache
+C:\Users\cpiercourt\Documents\Adventure\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\cpiercourt\Documents\Adventure\Adventure\obj\Debug\Adventure.exe
+C:\Users\cpiercourt\Documents\Adventure\Adventure\obj\Debug\Adventure.pdb

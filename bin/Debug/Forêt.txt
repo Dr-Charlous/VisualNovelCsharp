@@ -1,0 +1,5 @@
+Forêt
+Tu entres dans la forêt.
+C'est bizarre !
+Que fais-tu ?
+Plaine,Forêt

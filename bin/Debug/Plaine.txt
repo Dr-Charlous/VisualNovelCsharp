@@ -1,0 +1,5 @@
+Plaine
+Tu entres dans la Plaine
+C'est bizarre !
+Que fais-tu ?
+PlaineObtenu,Plaine
