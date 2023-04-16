@@ -1,0 +1,2 @@
+C:\Users\charl\Documents\VisualNovelCsharp\Adventure\obj\Debug\Adventure.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\VisualNovelCsharp\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache

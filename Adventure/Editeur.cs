@@ -30,24 +30,28 @@ namespace Adventure
 
             linesNext = lines[lines.Length - 1].Split(',');
 
-            for (int i = 0; i < lines.Length; i++)
+            if (linesNext.Length < 2)
             {
-                if (i < lines.Length - 1)
+                for (int i = 0; i < lines.Length; i++)
                 {
-                    Console.WriteLine(lines[i]);
-                    if (i == 0 || i == lines.Length - 3) 
+                    if (i < lines.Length - 1)
                     {
-                        Console.WriteLine();
+                        Console.WriteLine(lines[i]);
+                        if (i == 0 || i == lines.Length - 3)
+                        {
+                            Console.WriteLine();
+                        }
                     }
-                }
-                else
-                {
-                    for (int j = 0; j < linesNext.Length; j++)
+                    else
                     {
-                        Console.WriteLine($"{j} : {linesNext[j]}");
+                        for (int j = 0; j < linesNext.Length; j++)
+                        {
+                            Console.WriteLine($"{j} : {linesNext[j]}");
+                        }
                     }
                 }
             }
+            
 
 
             int go = int.Parse(Console.ReadLine());
